@@ -1,0 +1,41 @@
+{
+  "posts":[
+    {
+      "id": 1,
+      "title": "Exploring all the Wonders of Nature",
+      "description": "Discover the breathtaking beauty of nature with our latest exploration series. From lush forests to serene lakes, embark on a journey of awe-inspiring landscapes.",
+      "likeCount": 13000
+    },
+    {
+      "id": 2,
+      "title": "The Art of Culinary Delights",
+      "description": "Dive into the world of culinary arts as we explore diverse cuisines and cooking techniques. Uncover the secrets behind mouth-watering dishes and elevate your cooking skills.",
+      "likeCount": 2001
+    },
+    {
+      "id": 3,
+      "title": "Mastering the Python Programming Language",
+      "description": "Embark on a coding adventure with our Python masterclass. Learn the fundamentals, tackle real-world challenges, and become a proficient Python developer.",
+      "likeCount": 2001
+    },
+    {
+      "id": 4,
+      "title": "Fitness for Every Body",
+      "description": "Join our fitness community and embrace a healthier lifestyle. From invigorating workouts to mindful practices, discover the path to a stronger, happier you.",
+      "likeCount": 150
+    },
+    {
+      "id": 5,
+      "title": "Capturing Timeless Moments",
+      "description": "Unlock the art of photography and capture timeless moments. From composition techniques to post-processing tips, elevate your photography skills to new heights.",
+      "likeCount": 95
+    },
+    {
+      "id": 6,
+      "title": "Tech Trends: Navigating the Digital Frontier",
+      "description": "Stay ahead in the dynamic world of technology. Explore the latest trends, innovations, and breakthroughs shaping the digital frontier. Gear up for the future!",
+      "likeCount": 180
+    }
+  ]
+  
+}
